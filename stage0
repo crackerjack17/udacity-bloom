@@ -1,0 +1,32 @@
+<html>
+  <head>
+  <title>Laura's Notes</title>
+  </head>
+  <h1>Important Concepts</h1>
+  <h2>How the Internet Works!</h2>
+  <br>
+  
+    <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/250px-Client-server-model.svg.png">
+  
+  <ol><li>You have a computer</li>
+      <li>You type a URL into a browser</li>
+    <li>An <em>HTTP</em> request is sent to the corresponding server</li>
+    <li>The server finds the page or document and sends it back to the requesting computer</li>
+    <li>The user views the results (page/document) which is interpreted and displayed in a browser</li>
+    </ol>
+    <br>
+    <h2>HTML</h2>
+  <br>
+    HTML stands for <em>Hypertext Markup Language</em> also referred to as Hypertext Transfer Protocol. HTML documents form the majority of the content on the web. HTML documents contain <em>text content</em> which describes "what you see" and <em>markup</em> which describes "how it looks".
+    <br>
+    <h2>Tags and Elements</h2>
+    <br>HTML is made up of elements that contain tags.  The tags define the element.
+    <br>
+    <h2>Computers are only as smart as the person behind the curtain</h2>
+    <br>
+    Computers only function because a person has written, or coded, a program to make them work.  When you make a mistake in your code, the computer will let you know it!
+    <br>
+    <h2>Inline vs. Block Elements</h2>
+    <br>
+    HTML elements are either <b>Inline</b> or <b>Block</b>. Block level elements normally start (and end) with a new line, when displayed in a browser.  Inline elements are normally displayed without line breaks.
+    </html>
